@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creation mode/Creation mode.iml" filepath="$PROJECT_DIR$/Creation mode/Creation mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural model/Structural model.iml" filepath="$PROJECT_DIR$/Structural model/Structural model.iml" />
     </modules>
   </component>
 </project>
